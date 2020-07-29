@@ -1,4 +1,4 @@
-# Multivariate-Time-Series-using-LSTM
+# Multivariate Time Series using-LSTM
 
 # The Data
 The data is the measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years
